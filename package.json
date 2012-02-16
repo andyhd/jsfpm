@@ -1,0 +1,27 @@
+{
+  "name": "maybe",
+  "version": "0.1.1",
+  "description": "Functional pattern matching and the maybe monad",
+  "author": "Andy Driver <andy@pagezero.net>",
+  "keywords": [
+    "utility", "functional programming"
+  ],
+  "maintainers": "Andy Driver <andy@pagezero.net>",
+  "bugs": {
+    "web": "http://github.com/andyhd/maybe/issues"
+  },
+  "licenses": ["MIT"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/andyhd/maybe.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": { "node": ">=0.1.9" },
+  "directories": {
+    "lib": "./lib/maybe"
+  },
+  "main": "./lib/maybe"
+}
